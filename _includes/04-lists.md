@@ -1,4 +1,10 @@
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
+* AI
+* Machine Learning
+* IOT
+* Programming
+* Python
+   * Java
+   * Javascript
+   * C
+   * HTML
+   * CSS
