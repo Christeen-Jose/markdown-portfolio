@@ -1,1 +1,2 @@
-![Christeen Jose](https://user-images.githubusercontent.com/57263794/133266097-5fb99482-27dd-4a9b-a76e-b68fbee013be.jpg)
+![Christeen Jose](![new-imresizer](https://user-images.githubusercontent.com/57263794/133269420-d7c137f7-51ae-4829-bfcb-fb1c95949871.jpg)
+)
